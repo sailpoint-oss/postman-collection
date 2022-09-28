@@ -2,7 +2,7 @@
   "collection": {
     "info": {
       "_postman_id": "5871ecb5-f365-4a4f-ab11-94e23e409c16",
-      "name": "IdentityNow V3 API",
+      "name": "IdentityNow V4 API",
       "description": "Use these APIs to interact with the IdentityNow platform to achieve repeatable, automated processes with greater scalability. We encourage you to join the SailPoint Developer Community forum at https://developer.sailpoint.com/discuss to connect with other developers using our APIs.\n\nContact Support:\n Name: Developer Relations",
       "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
       "_exporter_id": "14603026"
